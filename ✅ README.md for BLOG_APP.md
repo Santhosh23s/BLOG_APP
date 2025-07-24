@@ -1,10 +1,10 @@
 ---
-title: ✅ README.md for BLOG_APP
+title: ✅ README.md
 created: '2025-07-24T19:46:45.160Z'
 modified: '2025-07-24T19:47:10.373Z'
 ---
 
-### ✅ `README.md` for BLOG\_APP
+### ✅ `README.md`
 
 ```markdown
 # BLOG_APP
